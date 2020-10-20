@@ -18,4 +18,4 @@ ENV KARMA_USER_HOME="/data"
 
 EXPOSE 8080
 
-ENTRYPOINT ["mvn", "jetty:run"]
+CMD ["mvn", "jetty:run"]
