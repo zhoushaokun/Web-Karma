@@ -25,6 +25,14 @@
 			<groupId>de.micromata.jak</groupId>
 			<artifactId>JavaAPIforKml</artifactId>
 		</dependency>
+
+		<dependency> 
+			<groupId>mysql</groupId> 
+			<artifactId>mysql-connector-java</artifactId> 
+			<version>5.1.39</version> 
+			<scope>system</scope> 
+			<systemPath>/app/lib/mysql-connector-java-5.1.39-bin.jar</systemPath> 
+		</dependency>
             
 	</dependencies>
 
